@@ -1,0 +1,11 @@
+﻿  pch.cpp
+  com_jouav_jni_TestNative.cpp
+F:\github\swig-jna-jni-example\JNI\C++\Dll1\Dll1\com_jouav_jni_TestNative.cpp(7): warning C4603: “_Included_com_jouav_jni_TestNative”: 未定义宏或在预编译头使用后定义发生改变
+F:\github\swig-jna-jni-example\JNI\C++\Dll1\Dll1\com_jouav_jni_TestNative.cpp(7): message : 将宏添加到预编译头中，而不是在此处定义
+F:\github\swig-jna-jni-example\JNI\C++\Dll1\Dll1\com_jouav_jni_TestNative.cpp(34): message : 使用预编译头
+  dllmain.cpp
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 1 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  Dll1.vcxproj -> F:\github\swig-jna-jni-example\JNI\C++\Dll1\x64\Release\Dll1.dll
